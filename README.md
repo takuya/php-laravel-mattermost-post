@@ -4,6 +4,7 @@ post mattermost by bot account api as laravel plugin
 
 ## Installing 
 ```shell
+cd your-laravel-project
 composer config repositories.'php-laravel-mattermost-post' \
          vcs https://github.com/takuya/php-laravel-mattermost-post.git  
 composer require takuya/php-laravel-mattermost-post:master
