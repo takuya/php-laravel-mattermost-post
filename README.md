@@ -88,6 +88,9 @@ php artisan mm:notify
 
 ### result 
 ![](https://user-images.githubusercontent.com/55338/184316220-e6d78dc0-3908-4c6a-9647-9684a9b59ff9.png)
+### result with formatting 
+![](https://user-images.githubusercontent.com/55338/184316742-c1257e71-0fc5-4c98-9afd-965f63542aa0.png)
+
 
 ## Testing
 ```shell
