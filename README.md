@@ -86,6 +86,9 @@ return [
 php artisan mm:notify
 ```
 
+### result 
+![](https://user-images.githubusercontent.com/55338/184316220-e6d78dc0-3908-4c6a-9647-9684a9b59ff9.png)
+
 ## Testing
 ```shell
 ## clone 
